@@ -1,6 +1,6 @@
 # Uncertainty
 
-This repository contains the code for the blog post [Uncertainty in machine learning models](https://harrisonpim.com/blog/uncertainty-in-machine-learning-models/). It's written in python and uses poetry for dependency management. Get started by running the following commands:
+This repository contains the code for the blog post [Reasons for uncertainty in machine learning models](https://harrisonpim.com/blog/reasons-for-uncertainty-in-neural-networks). It's written in python and uses poetry for dependency management. Get started by running the following commands:
 
 ```bash
 poetry install
